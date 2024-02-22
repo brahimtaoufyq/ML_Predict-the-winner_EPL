@@ -13,13 +13,13 @@ The English Premier League is known for its dynamic and competitive nature, maki
 
 # The project repository includes the following files:
 
-    matches_17-23.csv: The dataset containing historical match data for the English Premier League from the 2017/2018 to the 2022/2023 season.
+matches_17-23.csv: The dataset containing historical match data for the English Premier League from the 2017/2018 to the 2022/2023 season.
 
-    WebScrapping.ipynb: Jupyter notebook covering the process of collecting data from FBREF, a website providing historical match data for the English Premier League.
+WebScrapping.ipynb: Jupyter notebook covering the process of collecting data from FBREF, a website providing historical match data for the English Premier League.
 
-    predict football match winners.ipynb: Jupyter notebook detailing the steps for data cleaning, processing, and implementing the Random Forest model for predicting football match winners.
+predict football match winners.ipynb: Jupyter notebook detailing the steps for data cleaning, processing, and implementing the Random Forest model for predicting football match winners.
 
-    Report ML.pdf: A detailed PDF report providing an overview of the entire project, including motivation, methodology, exploratory data analysis, model implementation, and conclusions.
+Report ML.pdf: A detailed PDF report providing an overview of the entire project, including motivation, methodology, exploratory data analysis, model implementation, and conclusions.
 
 
 # Credits
