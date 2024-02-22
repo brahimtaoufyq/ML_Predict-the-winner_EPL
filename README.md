@@ -1,4 +1,4 @@
-# Predicting the English Premier League (EPL) Match Winner
+# 🚀 Predicting the English Premier League (EPL) Match Winner 🏆
 # Description
 
 This project is a part of the Master's Program in Applied Mathematics and Data Science, focusing on predicting the winner of English Premier League (EPL) matches using machine learning, specifically a Random Forest approach.
@@ -11,7 +11,7 @@ The motivation behind this project stems from a dual passion for football, parti
 
 The English Premier League is known for its dynamic and competitive nature, making match outcome prediction challenging. The project aims to utilize machine learning, specifically the Random Forest model, to analyze historical match data and predict the team likely to win a given match.
 
-# The project repository includes the following files:
+# Project Repository Contents 📂
 
 matches_17-23.csv: The dataset containing historical match data for the English Premier League from the 2017/2018 to the 2022/2023 season.
 
@@ -21,6 +21,6 @@ predict football match winners.ipynb: Jupyter notebook detailing the steps for d
 
 Report ML.pdf: A detailed PDF report providing an overview of the entire project, including motivation, methodology, exploratory data analysis, model implementation, and conclusions.
 
+# Credits 🙌
 
-# Credits
  Brahim TAOUFYQ - Author
